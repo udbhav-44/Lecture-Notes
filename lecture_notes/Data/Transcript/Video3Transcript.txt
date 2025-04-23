@@ -1,0 +1,1665 @@
+WEBVTT
+
+1
+00:00:41.035 --> 00:00:45.245
+Earlier we saw that cost that is
+
+2
+00:00:46.525 --> 00:00:51.165
+C is a shorthand version for cost and Q is the quantity.
+
+3
+00:00:51.715 --> 00:00:54.485
+Cost would change as quantity would change.
+
+4
+00:00:55.025 --> 00:00:57.805
+We saw that it can be decomposed into two part
+
+5
+00:00:59.205 --> 00:01:03.885
+explicit cost plus implicit cost.
+
+6
+00:01:05.985 --> 00:01:08.485
+Now we are going to decompose it slightly differently.
+
+7
+00:01:09.425 --> 00:01:13.855
+We can write C of Q as
+
+8
+00:01:14.745 --> 00:01:18.175
+fixed cost plus variable
+
+9
+00:01:18.325 --> 00:01:20.375
+cost if you pay attention.
+
+10
+00:01:20.525 --> 00:01:24.815
+Here we, I'm writing C as a function of Q as
+
+11
+00:01:25.895 --> 00:01:28.495
+Q increases C increases.
+
+12
+00:01:30.075 --> 00:01:33.695
+So QA change in Q will bring a change in C.
+
+13
+00:01:34.355 --> 00:01:36.335
+It is written in two parts here.
+
+14
+00:01:37.155 --> 00:01:41.845
+One part is called fixed cost
+
+15
+00:01:44.585 --> 00:01:48.045
+and the another part is called variable cost.
+
+16
+00:01:49.705 --> 00:01:53.765
+If you notice, I'm not writing FC
+
+17
+00:01:54.465 --> 00:01:57.125
+as a function of Q here.
+
+18
+00:01:57.125 --> 00:01:59.805
+There is no queue why there is no queue
+
+19
+00:02:01.035 --> 00:02:05.965
+because fixed cost is something that doesn't change with Q.
+
+20
+00:02:06.105 --> 00:02:09.605
+So fixed cost I can say can say does not
+
+21
+00:02:11.035 --> 00:02:15.545
+vary with width Q
+
+22
+00:02:16.525 --> 00:02:17.905
+and variable cost.
+
+23
+00:02:20.175 --> 00:02:24.705
+Cost varies with Q
+
+24
+00:02:25.165 --> 00:02:27.545
+as you choose the output it.
+
+25
+00:02:28.655 --> 00:02:33.025
+This cost changes for example, let us look at it
+
+26
+00:02:33.295 --> 00:02:35.265
+that you are producing some widget
+
+27
+00:02:38.855 --> 00:02:41.555
+And for that you are buying raw material
+
+28
+00:02:41.705 --> 00:02:42.795
+from different places.
+
+29
+00:02:43.735 --> 00:02:46.595
+If you are producing 10 units, you will need
+
+30
+00:02:47.145 --> 00:02:49.445
+some raw material.
+
+31
+00:02:49.705 --> 00:02:51.405
+If you are producing a hundred unit,
+
+32
+00:02:51.825 --> 00:02:54.845
+you will lead 10 times more raw material.
+
+33
+00:02:55.505 --> 00:02:58.685
+So the cost of raw material would change
+
+34
+00:02:59.155 --> 00:03:01.085
+with the level of output.
+
+35
+00:03:01.465 --> 00:03:05.365
+So the cost of raw material is going to be a part of
+
+36
+00:03:06.205 --> 00:03:07.245
+variable cost.
+
+37
+00:03:08.665 --> 00:03:12.295
+But to manage the so floor
+
+38
+00:03:12.425 --> 00:03:14.535
+where these visits are being produced,
+
+39
+00:03:15.275 --> 00:03:19.655
+you will have a manager, whether you are producing 10 units,
+
+40
+00:03:20.295 --> 00:03:22.535
+a hundred units or a thousand units,
+
+41
+00:03:23.195 --> 00:03:26.135
+you will have one manager and
+
+42
+00:03:26.135 --> 00:03:30.135
+therefore the salary paid to this manager is going
+
+43
+00:03:30.155 --> 00:03:33.695
+to be part of your fixed cost.
+
+44
+00:03:34.675 --> 00:03:39.055
+It is not changing with the output
+
+45
+00:03:39.155 --> 00:03:41.835
+as the name suggest, okay?
+
+46
+00:03:42.135 --> 00:03:43.515
+It should be clear to you.
+
+47
+00:03:43.775 --> 00:03:46.515
+So fixed cost and variable cost,
+
+48
+00:03:47.855 --> 00:03:49.625
+okay, it's clear.
+
+49
+00:03:50.125 --> 00:03:53.865
+Now let us look at the third component. Quasi fixed cost.
+
+50
+00:03:54.275 --> 00:03:58.465
+First of all, let us understand what does quasi mean.
+
+51
+00:03:58.705 --> 00:03:59.945
+I would use Hindi term.
+
+52
+00:04:00.585 --> 00:04:03.865
+Quasi means jsa like
+
+53
+00:04:04.885 --> 00:04:08.935
+so quasi fixed cost means like a fixed cost.
+
+54
+00:04:09.875 --> 00:04:12.975
+How it is different from this fixed cost
+
+55
+00:04:13.805 --> 00:04:16.335
+that if you are not producing anything,
+
+56
+00:04:17.075 --> 00:04:18.695
+if your output is zero,
+
+57
+00:04:19.865 --> 00:04:22.535
+quasi fixed cost is going to be zero.
+
+58
+00:04:23.475 --> 00:04:26.815
+But whether you are producing one unit, two unit three,
+
+59
+00:04:26.815 --> 00:04:31.735
+unit four unit, it is going to be some positive number
+
+60
+00:04:33.435 --> 00:04:38.055
+and this number doesn't change with the output.
+
+61
+00:04:38.055 --> 00:04:40.335
+This number remains the same.
+
+62
+00:04:40.755 --> 00:04:45.015
+It changes only once when output changes from zero to a
+
+63
+00:04:45.535 --> 00:04:48.535
+positive number and after that it doesn't change.
+
+64
+00:04:49.305 --> 00:04:51.055
+Fixed cost never changes.
+
+65
+00:04:51.405 --> 00:04:53.095
+Whether you are producing
+
+66
+00:04:53.435 --> 00:04:57.375
+or you are not producing, you are going to incur this cost.
+
+67
+00:04:57.675 --> 00:05:01.015
+Let us say for some reason you are operating a hotel
+
+68
+00:05:01.115 --> 00:05:02.935
+or a restaurant, you know
+
+69
+00:05:02.955 --> 00:05:05.335
+for some reason there is a cold wave outside,
+
+70
+00:05:05.755 --> 00:05:07.495
+no one is coming to your restaurant.
+
+71
+00:05:08.795 --> 00:05:10.735
+You have to incur this fixed cost.
+
+72
+00:05:13.145 --> 00:05:16.625
+Tomorrow, let's say that owner has some family issues,
+
+73
+00:05:16.765 --> 00:05:19.105
+that's why he doesn't want to open the shop,
+
+74
+00:05:19.365 --> 00:05:20.785
+but manager will be paid
+
+75
+00:05:21.455 --> 00:05:24.545
+whether you are serving one customer, 10 customer
+
+76
+00:05:24.565 --> 00:05:28.145
+or no customer doesn't matter, manager will be paid.
+
+77
+00:05:29.245 --> 00:05:33.225
+So manager is the salary to manager is fixed cost.
+
+78
+00:05:33.685 --> 00:05:35.625
+But let us say that
+
+79
+00:05:36.245 --> 00:05:39.145
+to open the restaurant you need one more
+
+80
+00:05:39.145 --> 00:05:40.785
+person other than manager.
+
+81
+00:05:40.845 --> 00:05:42.545
+You need a wait. So
+
+82
+00:05:42.845 --> 00:05:45.545
+and wait you are able to hire on daily basis.
+
+83
+00:05:46.245 --> 00:05:49.705
+If you are not opening the restaurant, you don't need
+
+84
+00:05:49.705 --> 00:05:52.425
+to hire innovator, but if you're opening the restaurant,
+
+85
+00:05:52.565 --> 00:05:54.145
+you need to hire one wait
+
+86
+00:05:54.965 --> 00:05:59.245
+and that is going to be part of your quasi fixed cost.
+
+87
+00:05:59.475 --> 00:06:01.365
+It's changing where your level
+
+88
+00:06:01.545 --> 00:06:04.925
+of output is changing from zero to positive
+
+89
+00:06:05.185 --> 00:06:07.885
+and that's the way quasi fixed cost is
+
+90
+00:06:07.885 --> 00:06:09.285
+different from fixed cost.
+
+91
+00:06:09.665 --> 00:06:11.845
+In these discussion, I will assume
+
+92
+00:06:12.115 --> 00:06:14.365
+that either we have fixed cost
+
+93
+00:06:14.385 --> 00:06:16.285
+or variable cost, you could say,
+
+94
+00:06:16.385 --> 00:06:19.765
+but there are many businesses in which we have quasi fixed
+
+95
+00:06:19.765 --> 00:06:22.285
+cost in electricity market, you know
+
+96
+00:06:22.305 --> 00:06:25.205
+to start a generator you need huge energy
+
+97
+00:06:25.625 --> 00:06:29.005
+and so to start a generator there is a huge cost involved.
+
+98
+00:06:29.145 --> 00:06:32.125
+So that cost is a part of quasi fixed cost,
+
+99
+00:06:32.465 --> 00:06:36.285
+but typically we assume for simplicity of understanding
+
+100
+00:06:36.635 --> 00:06:38.365
+that either we have fixed cost
+
+101
+00:06:38.665 --> 00:06:41.485
+or we have variable cost in the system
+
+102
+00:06:41.905 --> 00:06:45.285
+for time being we will ignore quasi fixed cost.
+
+103
+00:06:45.945 --> 00:06:48.245
+I'm going to come back to fixed cost
+
+104
+00:06:48.265 --> 00:06:49.925
+and variable cost in a minute.
+
+105
+00:06:50.185 --> 00:06:54.605
+But before that, let us understand what is average cost
+
+106
+00:06:54.905 --> 00:06:56.005
+and marginal cost.
+
+107
+00:06:56.075 --> 00:06:57.965
+This concept is also very important.
+
+108
+00:06:58.585 --> 00:07:02.085
+So cost is again is a function of quantity.
+
+109
+00:07:03.685 --> 00:07:06.525
+Sometime we are interested in knowing that how
+
+110
+00:07:07.645 --> 00:07:10.295
+much is the cost in per unit term.
+
+111
+00:07:10.635 --> 00:07:14.815
+So then we talk about average cost
+
+112
+00:07:15.475 --> 00:07:17.135
+and average cost is nothing
+
+113
+00:07:17.515 --> 00:07:22.455
+but C of Q divided by Q, no this is
+
+114
+00:07:22.995 --> 00:07:26.335
+we can say total cost in numerator
+
+115
+00:07:26.795 --> 00:07:29.335
+and in denominator we have quantity.
+
+116
+00:07:30.275 --> 00:07:33.415
+So this is total cost divided by quantity
+
+117
+00:07:34.115 --> 00:07:36.095
+as we are defining average cost.
+
+118
+00:07:36.195 --> 00:07:40.495
+We can see here C of Q we just saw is equal
+
+119
+00:07:40.555 --> 00:07:45.175
+to epsy, that is fixed cost and also a variable cost.
+
+120
+00:07:45.175 --> 00:07:47.975
+That's a function of Q on both side.
+
+121
+00:07:48.035 --> 00:07:50.295
+If we divide by Q,
+
+122
+00:07:52.365 --> 00:07:53.415
+then what do we get?
+
+123
+00:07:53.805 --> 00:07:56.335
+This side we get average cost.
+
+124
+00:07:56.885 --> 00:08:01.175
+This has a you know sort form average cost A is coming from
+
+125
+00:08:01.175 --> 00:08:03.135
+average and C is coming from cost.
+
+126
+00:08:03.365 --> 00:08:05.695
+Average cost is a function of Q
+
+127
+00:08:06.835 --> 00:08:10.335
+and then we have here FC by Q.
+
+128
+00:08:10.835 --> 00:08:15.775
+So this is basically what we get rather than saying FC by Q,
+
+129
+00:08:16.155 --> 00:08:19.615
+we can write this as average,
+
+130
+00:08:21.045 --> 00:08:22.895
+average fixed cost
+
+131
+00:08:23.275 --> 00:08:26.855
+and this is a function of q as Q changes.
+
+132
+00:08:27.445 --> 00:08:30.215
+Average fixed cost would change, we will see it
+
+133
+00:08:30.735 --> 00:08:31.735
+graphically in a minute.
+
+134
+00:08:32.165 --> 00:08:36.095
+This is nothing but equal to fixed cost divided by q.
+
+135
+00:08:36.655 --> 00:08:37.815
+Numerator is not changing.
+
+136
+00:08:37.995 --> 00:08:39.935
+Let us say numerator is fixed at a hundred
+
+137
+00:08:40.395 --> 00:08:42.775
+and Q is changing earlier it is 10
+
+138
+00:08:43.625 --> 00:08:46.815
+let's say then the average fixed cost is 10.
+
+139
+00:08:47.475 --> 00:08:51.535
+If total quantity is 20, average fixed cost is five.
+
+140
+00:08:51.555 --> 00:08:55.725
+So we see that average fixed cost is changing with quantity.
+
+141
+00:08:56.195 --> 00:08:57.565
+Therefore I say here
+
+142
+00:08:57.875 --> 00:09:01.605
+that AEP C average fixed cost is a function of Q
+
+143
+00:09:02.105 --> 00:09:05.565
+and so is variable average variable cost.
+
+144
+00:09:06.155 --> 00:09:07.925
+What is average variable cost?
+
+145
+00:09:08.925 --> 00:09:11.365
+Variable cost divided by Q.
+
+146
+00:09:12.225 --> 00:09:14.765
+We can have instances where average
+
+147
+00:09:15.285 --> 00:09:16.765
+variable cost is not changing.
+
+148
+00:09:17.265 --> 00:09:21.205
+Let me give you an example that to produce one unit
+
+149
+00:09:21.865 --> 00:09:24.845
+you need one rupe worth of raw material
+
+150
+00:09:26.005 --> 00:09:29.585
+to produce 10 unit you need 10 rupe worth of raw material.
+
+151
+00:09:29.925 --> 00:09:34.665
+So we see here in average variable cost, if so happens that
+
+152
+00:09:35.385 --> 00:09:39.105
+C of VC of Q is equal
+
+153
+00:09:39.125 --> 00:09:40.625
+to let's say simply Q.
+
+154
+00:09:42.335 --> 00:09:45.425
+Then we get it as one and it is not changing.
+
+155
+00:09:45.565 --> 00:09:46.825
+So you should keep in mind
+
+156
+00:09:47.135 --> 00:09:50.105
+that fixed cost doesn't change with quantity.
+
+157
+00:09:51.105 --> 00:09:52.665
+Variable cost changes with quantity
+
+158
+00:09:53.735 --> 00:09:56.905
+average fixed cost definitely changes with quantity,
+
+159
+00:09:57.565 --> 00:10:00.745
+but average variable cost may change
+
+160
+00:10:01.005 --> 00:10:03.905
+or may not change with quantity it can remain same.
+
+161
+00:10:03.925 --> 00:10:06.225
+We will see all these things graphically.
+
+162
+00:10:06.645 --> 00:10:10.905
+So this is the way we can write this is average
+
+163
+00:10:12.095 --> 00:10:15.945
+cost and average fixed cost and average variable cost.
+
+164
+00:10:16.725 --> 00:10:18.385
+Now let us talk
+
+165
+00:10:18.475 --> 00:10:22.825
+about Marginal cost.
+
+166
+00:10:24.095 --> 00:10:25.465
+What is marginal cost?
+
+167
+00:10:26.185 --> 00:10:27.985
+Colloquially, let me give you first
+
+168
+00:10:29.145 --> 00:10:31.425
+a wrong definition.
+
+169
+00:10:32.075 --> 00:10:33.625
+Wrong is too strong word
+
+170
+00:10:34.145 --> 00:10:36.785
+a definition which is not very correct.
+
+171
+00:10:38.515 --> 00:10:41.375
+It has but it's easier to understand.
+
+172
+00:10:42.185 --> 00:10:44.735
+Later on I will give you a better definition,
+
+173
+00:10:44.845 --> 00:10:46.735
+more appropriate definition.
+
+174
+00:10:47.115 --> 00:10:50.135
+So let us say if you are producing Q unit,
+
+175
+00:10:52.015 --> 00:10:54.905
+then your total cost is C of Q.
+
+176
+00:10:55.725 --> 00:10:57.945
+If you produce Q plus one unit,
+
+177
+00:10:58.335 --> 00:11:01.785
+your cost total cost goes up from C of Q
+
+178
+00:11:02.005 --> 00:11:03.385
+to C of Q plus one.
+
+179
+00:11:03.925 --> 00:11:06.625
+So to produce one additional unit,
+
+180
+00:11:09.325 --> 00:11:11.745
+how much of cost do you incur?
+
+181
+00:11:13.245 --> 00:11:16.425
+CQ plus one minus cq.
+
+182
+00:11:17.175 --> 00:11:19.305
+This is what marginal cost is.
+
+183
+00:11:20.295 --> 00:11:24.945
+It's easier to understand that marginal cost is a cost
+
+184
+00:11:25.975 --> 00:11:30.785
+that you incur to produce one more unit of output.
+
+185
+00:11:33.085 --> 00:11:35.025
+Why do I say it's not proper?
+
+186
+00:11:35.775 --> 00:11:38.505
+Because this one is a very random number.
+
+187
+00:11:39.165 --> 00:11:42.305
+Now if you think of any product, let's say RIN sa,
+
+188
+00:11:43.565 --> 00:11:45.785
+you know you can have a hundred gram bar,
+
+189
+00:11:46.205 --> 00:11:51.145
+you can have two 50 gram bar, you can have 50 gram bar
+
+190
+00:11:51.845 --> 00:11:55.365
+so it can, so what do we mean by one?
+
+191
+00:11:55.745 --> 00:11:57.365
+One is just to indicate
+
+192
+00:11:57.365 --> 00:12:00.965
+that there is an increment in production.
+
+193
+00:12:01.425 --> 00:12:03.845
+So rather than thinking in terms of one,
+
+194
+00:12:04.265 --> 00:12:06.325
+let us think in term of edge
+
+195
+00:12:07.305 --> 00:12:10.405
+we can say earlier Q is being produced,
+
+196
+00:12:10.915 --> 00:12:13.245
+then the cost is C of Q
+
+197
+00:12:13.785 --> 00:12:16.445
+and then Q plus H is being produced.
+
+198
+00:12:16.835 --> 00:12:21.525
+Then C of Q plus H, how much is the difference?
+
+199
+00:12:22.895 --> 00:12:27.845
+Difference is C of Q plus H minus
+
+200
+00:12:28.685 --> 00:12:31.645
+C of Q, we should divide it by H.
+
+201
+00:12:32.065 --> 00:12:34.045
+Why? Because H is a different,
+
+202
+00:12:34.065 --> 00:12:36.525
+you know earlier also we were defining by one,
+
+203
+00:12:37.225 --> 00:12:40.925
+let me say here that this is basically here
+
+204
+00:12:42.065 --> 00:12:45.205
+in denominator we have Q plus one minus Q.
+
+205
+00:12:45.515 --> 00:12:48.405
+This Q got canceled so we had one.
+
+206
+00:12:49.385 --> 00:12:53.645
+So basically it is a rate of change here from Q we go
+
+207
+00:12:53.645 --> 00:12:54.765
+to Q plus edge.
+
+208
+00:12:55.065 --> 00:12:58.245
+So therefore the incremented of edge unit.
+
+209
+00:12:58.785 --> 00:13:03.035
+So this is the rate
+
+210
+00:13:03.215 --> 00:13:05.115
+of change in cost.
+
+211
+00:13:05.785 --> 00:13:10.315
+What we say when this edge is very, very small we can make,
+
+212
+00:13:10.655 --> 00:13:13.875
+we can start H equal to one, then HE equal to half,
+
+213
+00:13:13.875 --> 00:13:15.595
+then H is equal to one by four
+
+214
+00:13:16.055 --> 00:13:18.515
+and we can keep on decreasing this edge.
+
+215
+00:13:19.065 --> 00:13:23.355
+What we get here is indicated by C dash Q,
+
+216
+00:13:23.725 --> 00:13:28.355
+which is coming from calculus DC
+
+217
+00:13:28.415 --> 00:13:30.315
+of Q divided by dq.
+
+218
+00:13:31.265 --> 00:13:35.115
+This is your marginal cost.
+
+219
+00:13:42.155 --> 00:13:45.735
+Let me take a moment to explain this
+
+220
+00:13:46.565 --> 00:13:47.855
+with an example
+
+221
+00:13:49.145 --> 00:13:53.845
+and we will also have a small discussion on
+
+222
+00:13:54.075 --> 00:13:55.685
+what I just did.
+
+223
+00:13:55.905 --> 00:13:58.725
+You know I used calculus, many of you knew calculus
+
+224
+00:13:59.025 --> 00:14:01.285
+but some of you may have difficulty.
+
+225
+00:14:01.585 --> 00:14:02.885
+So I will spend a minute
+
+226
+00:14:02.945 --> 00:14:06.975
+or to talking about this notion
+
+227
+00:14:07.005 --> 00:14:08.455
+that comes from calculus.
+
+228
+00:14:08.455 --> 00:14:09.535
+People who are familiar.
+
+229
+00:14:09.675 --> 00:14:14.255
+So skip it, okay, let us say that
+
+230
+00:14:15.075 --> 00:14:17.495
+10 unit you are producing
+
+231
+00:14:17.955 --> 00:14:20.895
+and your cost is coming out to be a hundred rupees.
+
+232
+00:14:21.275 --> 00:14:24.175
+If you are producing 1111 unit
+
+233
+00:14:25.155 --> 00:14:28.535
+and your cost is coming out to be 111,
+
+234
+00:14:29.485 --> 00:14:32.655
+then we can say that the cost
+
+235
+00:14:32.755 --> 00:14:36.495
+to produce one more unit at level of 10
+
+236
+00:14:37.445 --> 00:14:42.295
+happens to be 111 minus a hundred, which is 11
+
+237
+00:14:43.035 --> 00:14:46.255
+and this 11 is marginal cost.
+
+238
+00:14:47.315 --> 00:14:50.015
+At least it is close to marginal cost.
+
+239
+00:14:50.875 --> 00:14:53.085
+Why do I say close to marginal cost?
+
+240
+00:14:53.545 --> 00:14:55.485
+Let us look at this entity.
+
+241
+00:14:56.305 --> 00:15:00.085
+The cost is given as Q square.
+
+242
+00:15:00.945 --> 00:15:03.675
+What does it mean that if you produce one unit,
+
+243
+00:15:05.205 --> 00:15:07.295
+your cost is one rupe.
+
+244
+00:15:07.295 --> 00:15:10.655
+If you produce two unit, your cost is four rupees.
+
+245
+00:15:10.655 --> 00:15:13.295
+If you produce three unit, your cost is
+
+246
+00:15:14.285 --> 00:15:17.255
+nine rupees y nine three a square is
+
+247
+00:15:17.445 --> 00:15:19.735
+9 4 16 rupees.
+
+248
+00:15:19.995 --> 00:15:22.815
+So from one to two the cost is three.
+
+249
+00:15:22.875 --> 00:15:25.415
+So here marginal cost by earlier definition
+
+250
+00:15:26.155 --> 00:15:27.775
+is coming out to be three.
+
+251
+00:15:28.525 --> 00:15:30.815
+From here it's coming out to be five.
+
+252
+00:15:31.365 --> 00:15:33.855
+From three to four it's coming out to be seven.
+
+253
+00:15:34.755 --> 00:15:38.775
+But if we use calculus, so then we have
+
+254
+00:15:38.775 --> 00:15:39.935
+to do the differentiation.
+
+255
+00:15:41.545 --> 00:15:45.155
+Dell C by Dell Q and what we get is two Q.
+
+256
+00:15:45.975 --> 00:15:50.075
+So at any point what two Q says
+
+257
+00:15:50.465 --> 00:15:52.875
+that 1, 2, 3, 4.
+
+258
+00:15:52.945 --> 00:15:54.075
+Here we have Q
+
+259
+00:15:54.655 --> 00:15:58.835
+and here we have marginal cost.
+
+260
+00:15:59.295 --> 00:16:02.795
+So when one unit you are producing marginal cost is two,
+
+261
+00:16:03.495 --> 00:16:07.115
+it is four, it is six, it is eight.
+
+262
+00:16:07.735 --> 00:16:10.555
+If you see there is you know difference
+
+263
+00:16:11.135 --> 00:16:13.115
+at one you are getting one extra.
+
+264
+00:16:13.115 --> 00:16:14.355
+Here you are getting two
+
+265
+00:16:14.655 --> 00:16:17.315
+and here you are getting three at two you are getting four.
+
+266
+00:16:17.315 --> 00:16:18.835
+Here you are getting five.
+
+267
+00:16:18.835 --> 00:16:20.715
+Here at three you are getting six here.
+
+268
+00:16:21.025 --> 00:16:22.195
+Here you are getting seven.
+
+269
+00:16:22.615 --> 00:16:27.435
+So this definition is an approximation, this is
+
+270
+00:16:27.985 --> 00:16:31.595
+more accurate definition that marginal cost
+
+271
+00:16:34.375 --> 00:16:37.155
+Is the rate of change
+
+272
+00:16:39.655 --> 00:16:40.835
+in total cost.
+
+273
+00:16:42.665 --> 00:16:46.955
+Cost with respect to WRT indicates
+
+274
+00:16:46.985 --> 00:16:49.235
+with respect to quantity.
+
+275
+00:16:53.495 --> 00:16:56.395
+Now let us also understand, let us take this example
+
+276
+00:16:56.575 --> 00:16:59.115
+and try to understand the graph.
+
+277
+00:17:00.615 --> 00:17:04.275
+Let us say the graph is here.
+
+278
+00:17:04.665 --> 00:17:08.555
+Here is Q square and here is Q. So this is one.
+
+279
+00:17:09.135 --> 00:17:11.675
+Let us say this is 1.5
+
+280
+00:17:12.735 --> 00:17:16.515
+and this is two and this is the way it goes.
+
+281
+00:17:16.785 --> 00:17:21.475
+This is one, this is 2.25. This is four.
+
+282
+00:17:22.055 --> 00:17:23.755
+So let us say one,
+
+283
+00:17:26.975 --> 00:17:31.525
+2.25 and this is four.
+
+284
+00:17:32.505 --> 00:17:36.085
+Now we can look at, you know, change jump from one to two.
+
+285
+00:17:36.705 --> 00:17:38.685
+So this change is one
+
+286
+00:17:39.345 --> 00:17:43.805
+and here correspondingly we are getting poor minus one.
+
+287
+00:17:43.805 --> 00:17:48.385
+That is three slope is coming out to be three
+
+288
+00:17:48.485 --> 00:17:51.205
+and that is the number that you are getting here.
+
+289
+00:17:53.365 --> 00:17:55.585
+Now if you jump from one
+
+290
+00:17:55.585 --> 00:17:58.465
+to 1.5 earlier you had this triangle,
+
+291
+00:18:01.485 --> 00:18:03.305
+now you will have smaller triangle.
+
+292
+00:18:10.125 --> 00:18:12.015
+This you will have this triangle.
+
+293
+00:18:12.515 --> 00:18:16.215
+So here you have a change of
+
+294
+00:18:17.135 --> 00:18:19.705
+0.5 from one to 1.5
+
+295
+00:18:20.325 --> 00:18:24.865
+and here you have a change of 1 2 2 0.25.
+
+296
+00:18:25.245 --> 00:18:29.945
+So that changes 1.25. So how much is the rate?
+
+297
+00:18:30.535 --> 00:18:35.505
+Rate is 1.25 divided by 0.5, that is 2.5.
+
+298
+00:18:35.965 --> 00:18:39.065
+So from three we have come to 2.5.
+
+299
+00:18:39.685 --> 00:18:43.545
+If you look at using formula C
+
+300
+00:18:43.605 --> 00:18:48.185
+of Q plus H is SQ plus H
+
+301
+00:18:48.575 --> 00:18:51.825
+holy square by formula A plus B,
+
+302
+00:18:51.825 --> 00:18:56.105
+holy square formula is a square plus two A B,
+
+303
+00:18:56.105 --> 00:18:59.465
+that is two qh in this case plus hs square
+
+304
+00:19:00.085 --> 00:19:01.745
+and here you have C of Q.
+
+305
+00:19:02.215 --> 00:19:06.305
+This is Qs square, so C of Q plus H
+
+306
+00:19:06.915 --> 00:19:08.305
+minus C of Q.
+
+307
+00:19:08.695 --> 00:19:12.505
+What you are getting is two QH plus H square.
+
+308
+00:19:12.645 --> 00:19:16.305
+Why this Q square and this Q square will be canceled
+
+309
+00:19:16.885 --> 00:19:20.145
+and if you divide the whole thing by H, you divide here
+
+310
+00:19:20.165 --> 00:19:24.545
+by H, what you get is basically two q plus edge
+
+311
+00:19:25.485 --> 00:19:29.225
+and as in limit, you keep on decreasing edge,
+
+312
+00:19:29.935 --> 00:19:33.465
+this edge will go to zero and you are left with two Q
+
+313
+00:19:33.725 --> 00:19:35.465
+and that's what you are getting.
+
+314
+00:19:36.015 --> 00:19:39.425
+This is exactly what you do in calculus. Okay?
+
+315
+00:19:39.845 --> 00:19:42.865
+So marginal cost will come out
+
+316
+00:19:42.865 --> 00:19:45.345
+to be two Q, not all the time.
+
+317
+00:19:45.725 --> 00:19:50.185
+If C of Q is Q square, then it comes out to be two Q.
+
+318
+00:19:50.605 --> 00:19:53.175
+If we can say simply
+
+319
+00:19:53.735 --> 00:19:56.015
+marginal cost at Q is nothing
+
+320
+00:19:56.155 --> 00:19:59.135
+but derivative of cost
+
+321
+00:19:59.765 --> 00:20:01.455
+with respect to Q.
+
+322
+00:20:03.245 --> 00:20:06.375
+Okay, so this is on marginal cost.
+
+323
+00:20:06.995 --> 00:20:11.655
+Now let us try to understand relationship between average
+
+324
+00:20:11.995 --> 00:20:13.215
+and marginal cost.
+
+325
+00:20:14.235 --> 00:20:17.135
+For example, you are producing nine
+
+326
+00:20:17.185 --> 00:20:19.395
+units, okay?
+
+327
+00:20:19.975 --> 00:20:24.155
+And nine, the production of nine units will cost you,
+
+328
+00:20:24.255 --> 00:20:29.005
+let us say 90 production
+
+329
+00:20:29.065 --> 00:20:31.045
+of 10 units
+
+330
+00:20:32.405 --> 00:20:34.295
+cost you 101.
+
+331
+00:20:34.765 --> 00:20:37.135
+What is happening here average is
+
+332
+00:20:37.915 --> 00:20:41.135
+if you calculate the average is 90 divided
+
+333
+00:20:41.235 --> 00:20:42.575
+by nine, that is 10.
+
+334
+00:20:43.315 --> 00:20:47.485
+And here average it at 10, level 100, one divided
+
+335
+00:20:47.665 --> 00:20:49.645
+by 10, 10.1.
+
+336
+00:20:50.515 --> 00:20:55.405
+What is happening? If you think of marginal cost here,
+
+337
+00:20:55.465 --> 00:21:00.045
+and we use the definition that's easier to remember, that
+
+338
+00:21:01.205 --> 00:21:04.885
+increase in cost if we produce one more unit that comes out
+
+339
+00:21:05.085 --> 00:21:07.205
+to be 11, this 11
+
+340
+00:21:08.425 --> 00:21:10.365
+we can say marginal cost happens
+
+341
+00:21:10.465 --> 00:21:12.565
+to be greater than average cost.
+
+342
+00:21:13.105 --> 00:21:16.085
+If marginal cost is greater than average cost,
+
+343
+00:21:16.575 --> 00:21:18.685
+it'll increase the average cost.
+
+344
+00:21:18.815 --> 00:21:20.085
+Think about it, what's happening?
+
+345
+00:21:20.865 --> 00:21:24.075
+You are producing X unit.
+
+346
+00:21:25.965 --> 00:21:29.295
+Each of these units on average costs A,
+
+347
+00:21:29.675 --> 00:21:33.735
+so your total cost is a multiplied by X.
+
+348
+00:21:35.775 --> 00:21:39.585
+Now you go from X
+
+349
+00:21:39.645 --> 00:21:41.065
+to x plus one unit.
+
+350
+00:21:42.005 --> 00:21:46.985
+Now it costs you more than eight to produce one extra unit.
+
+351
+00:21:47.365 --> 00:21:51.545
+So that additional will pull the average up.
+
+352
+00:21:52.005 --> 00:21:53.105
+That's what is happening.
+
+353
+00:21:53.325 --> 00:21:56.385
+So if marginal cost is greater than average cost,
+
+354
+00:21:56.575 --> 00:21:58.385
+then average cost would increase.
+
+355
+00:21:58.895 --> 00:22:02.505
+Similarly, if marginal cost is less than average cost,
+
+356
+00:22:02.855 --> 00:22:05.785
+then average cost would decrease.
+
+357
+00:22:07.285 --> 00:22:10.105
+You can always do the maths, you can write it.
+
+358
+00:22:11.235 --> 00:22:12.455
+Uh, you can make a table
+
+359
+00:22:12.595 --> 00:22:17.175
+and see how is it happening Calculus wise, what we can do,
+
+360
+00:22:17.715 --> 00:22:22.295
+we can say that average cost is C of Q
+
+361
+00:22:22.805 --> 00:22:24.135
+divided by Q.
+
+362
+00:22:24.235 --> 00:22:25.935
+That's the definition we have learned.
+
+363
+00:22:26.555 --> 00:22:31.055
+Now we want to differentiate this average cost
+
+364
+00:22:31.565 --> 00:22:33.255
+with respect to Q.
+
+365
+00:22:35.235 --> 00:22:38.855
+By the way, if you are having difficulty with this, I will
+
+366
+00:22:40.005 --> 00:22:44.935
+take some time and describe the calculus principle
+
+367
+00:22:44.935 --> 00:22:47.615
+behind it during the discussion session.
+
+368
+00:22:47.785 --> 00:22:51.615
+Don't be shy If many people are fine with it
+
+369
+00:22:51.635 --> 00:22:54.015
+and very few people have difficulty,
+
+370
+00:22:54.495 --> 00:22:56.735
+I will spend some extra time with these people
+
+371
+00:22:56.755 --> 00:23:00.015
+who are facing difficulty and try to explain these things.
+
+372
+00:23:00.935 --> 00:23:02.455
+I have no idea, uh,
+
+373
+00:23:02.455 --> 00:23:05.495
+whether you are having any difficulty or not.
+
+374
+00:23:05.835 --> 00:23:07.695
+So please feel free to write to me.
+
+375
+00:23:09.315 --> 00:23:11.895
+So here, if you use the formula,
+
+376
+00:23:17.585 --> 00:23:19.005
+How can we differentiate this?
+
+377
+00:23:19.265 --> 00:23:21.485
+We have a formula. What is the formula?
+
+378
+00:23:22.105 --> 00:23:26.325
+If you want to differentiate you by V with respect to X,
+
+379
+00:23:26.755 --> 00:23:30.685
+what you are going to get, V, D, U by dx,
+
+380
+00:23:32.045 --> 00:23:35.725
+UD, V by DX divided
+
+381
+00:23:35.865 --> 00:23:37.045
+by VS square.
+
+382
+00:23:37.345 --> 00:23:42.125
+So what you are going to get here is Q de C
+
+383
+00:23:42.145 --> 00:23:45.765
+by Dell, Q minus U, S,
+
+384
+00:23:46.965 --> 00:23:48.245
+C or cq.
+
+385
+00:23:48.465 --> 00:23:52.605
+I'm sometime writing C as to represent cq.
+
+386
+00:23:53.305 --> 00:23:56.125
+And then if you differentiate Q with respect to Q,
+
+387
+00:23:56.125 --> 00:24:01.005
+you will get one divided by QS square, which is coming out
+
+388
+00:24:01.005 --> 00:24:05.485
+to be DC by dq, divided by Q
+
+389
+00:24:06.295 --> 00:24:10.525
+minus C of QQS square.
+
+390
+00:24:11.225 --> 00:24:15.525
+You can pull out one by Q out, you will get DC
+
+391
+00:24:15.545 --> 00:24:20.085
+by DQ minus CQ by Q
+
+392
+00:24:20.945 --> 00:24:22.085
+if you pay attention.
+
+393
+00:24:22.475 --> 00:24:23.965
+This is the marginal cost.
+
+394
+00:24:24.465 --> 00:24:27.885
+So this is marginal cost minus
+
+395
+00:24:28.675 --> 00:24:29.765
+average cost.
+
+396
+00:24:30.345 --> 00:24:33.645
+So very clearly if from this formulation
+
+397
+00:24:34.545 --> 00:24:37.685
+one can see we have already done non calculus version.
+
+398
+00:24:37.755 --> 00:24:39.485
+Here we are doing the calculus version.
+
+399
+00:24:39.985 --> 00:24:43.925
+If mc is greater than ac, it means
+
+400
+00:24:45.475 --> 00:24:47.525
+this entity is positive.
+
+401
+00:24:48.025 --> 00:24:52.085
+It means Dell by DA, C by DQ is positive
+
+402
+00:24:52.305 --> 00:24:54.085
+and as Q increases,
+
+403
+00:24:55.555 --> 00:24:57.405
+average cost will increase.
+
+404
+00:24:57.835 --> 00:25:00.725
+Similarly, if Mc is less than ac,
+
+405
+00:25:02.145 --> 00:25:04.485
+mc is less than ac, then
+
+406
+00:25:05.105 --> 00:25:09.485
+as Q increases AC decreases y you can see from here
+
+407
+00:25:09.795 --> 00:25:13.685
+that mc is less than AC means mc minus AC
+
+408
+00:25:13.865 --> 00:25:14.885
+is a negative number.
+
+409
+00:25:15.385 --> 00:25:18.645
+So what it says that as Q is increasing,
+
+410
+00:25:18.875 --> 00:25:20.645
+average cost is decreasing.
+
+411
+00:25:20.645 --> 00:25:21.765
+So that's what I am saying.
+
+412
+00:25:22.265 --> 00:25:26.925
+And if mc is equal to ac, this is equal to zero.
+
+413
+00:25:27.385 --> 00:25:31.245
+So it means a change in Q will not bring any change.
+
+414
+00:25:31.305 --> 00:25:35.085
+In average cost, average cost remains the same.
+
+415
+00:25:35.465 --> 00:25:38.365
+So this is the relationship between average
+
+416
+00:25:38.705 --> 00:25:40.685
+and marginal cost.

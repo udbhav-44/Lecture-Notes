@@ -1,0 +1,5 @@
+crewai
+crewai[all]
+youtube_transcript_api
+opencv-python
+langchain_openai

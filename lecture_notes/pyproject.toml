@@ -1,0 +1,23 @@
+[project]
+name = "lecture_notes"
+version = "0.1.0"
+description = "lecture-notes using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.105.0,<1.0.0"
+]
+
+[project.scripts]
+lecture_notes = "lecture_notes.main:run"
+run_crew = "lecture_notes.main:run"
+train = "lecture_notes.main:train"
+replay = "lecture_notes.main:replay"
+test = "lecture_notes.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
